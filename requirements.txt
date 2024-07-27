@@ -44,7 +44,7 @@ namex==0.0.8
 nltk==3.8.1
 numba==0.60.0
 numpy==1.26.4
-whisper @ git+https://github.com/openai/whisper.git
+git+https://github.com/openai/whisper.git
 opt-einsum==3.3.0
 pandas==2.2.2
 pathlib==1.0.1
